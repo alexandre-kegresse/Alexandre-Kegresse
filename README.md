@@ -1,9 +1,9 @@
 # Alexandre KEGRESSE
+Student at La Plateforme
 
 
 ## 🚀 About Me
-I'm student at La Plateforme
-
+Aspiring Python Developer I’m passionate about learning and building Python-based applications. Currently improving my skills in GUI design with libraries. Open to collaboration and learning opportunities, especially in problem-solving and creative coding projects.
 
 ## Tech Stack
 
