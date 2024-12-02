@@ -1,20 +1,24 @@
-![App Screenshot](https://res.cloudinary.com/dxub0smsi/image/upload/f_auto,q_auto/fl1u9vnbu943n9lwyx9c)
-
-
-
-
+![App Screenshot](https://res.cloudinary.com/dxub0smsi/image/upload/v1733176430/wkscyuexjiity4qf3pmj.png)
 
 ## 🚀 About Me
-Aspiring Python Developer
-I’m passionate about learning and building Python-based applications. Currently improving my skills in GUI design with libraries. Open to collaboration and learning opportunities, especially in problem-solving and creative coding projects.
+Web Developer in Training | Aspiring Python Developer
 
+Currently studying web development and cybersecurity at La Plateforme_ , I am transitioning into tech after a self-taught journey alongside a prior professional career. Passionate about Python programming and crafting engaging web experiences with CSS and JavaScript, I thrive on combining creativity and technical skills to build effective solutions.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-kegresse-81678933b/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/elonmusk)
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently studying in La Plateforme
+
+🧠 I'm currently learning Python
+
+🤔 I'm looking for help with OOP
 
 ## Tech Stack
 
-**Client:** CSS, TailwindCSS
+**Client:** HTML5, CSS, JS
 
-**Server:** Python, Linux
-
-
-![App Screenshot](https://cdn.discordapp.com/attachments/1079842273531015208/1313084408852647997/the10dens_Face_close-up_a_young_25-year-old_massive_strong_spor_86b30f70-884a-46f0-aa10-210fcda0e3c1.png?ex=674ed8a6&is=674d8726&hm=af610b1c430924ce23c334970296713b162bd7cd10609b5e30d5cc3e407ce90a&)
-
+**Server:** Python
