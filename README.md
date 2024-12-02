@@ -1,10 +1,4 @@
-
-![Logo](https://media.licdn.com/dms/image/v2/D4D0BAQFOeUMW42BGEQ/company-logo_100_100/company-logo_100_100/0/1707155663070/laplateformeio_logo?e=1741219200&v=beta&t=IrD1N5LlMs-75P7iB1IBE2KyjNhhfV3GTRKTMLwX61U)
-
-## Alexandre KEGRESSE
-Student at La Plateforme
-
-![App Screenshot](https://cdn.discordapp.com/attachments/1079842273531015208/1313122516557893663/bggit.jpg?ex=674efc24&is=674daaa4&hm=dc0aedbbe11c5258d271aff5ee16624fc66d369ba4bb506b22888799512d8c9b&)
+![App Screenshot]([https://cdn.discordapp.com/attachments/1079842273531015208/1313122516557893663/bggit.jpg?ex=674efc24&is=674daaa4&hm=dc0aedbbe11c5258d271aff5ee16624fc66d369ba4bb506b22888799512d8c9b&](https://res.cloudinary.com/dxub0smsi/image/upload/f_auto,q_auto/fl1u9vnbu943n9lwyx9c)
 
 
 
