@@ -4,7 +4,7 @@
 ## Alexandre KEGRESSE
 Student at La Plateforme
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1079842273531015208/1313117114004934707/li-zhang-13AE9Hva4Wo-unsplash.jpg?ex=674ef71c&is=674da59c&hm=8f12d31ca9ee1b85cee64b17955cdb154022a990ef0a3ae612961e8e28194436&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1079842273531015208/1313122516557893663/bggit.jpg?ex=674efc24&is=674daaa4&hm=dc0aedbbe11c5258d271aff5ee16624fc66d369ba4bb506b22888799512d8c9b&)
 
 
 
