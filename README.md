@@ -1,4 +1,4 @@
-![App Screenshot]([https://cdn.discordapp.com/attachments/1079842273531015208/1313122516557893663/bggit.jpg?ex=674efc24&is=674daaa4&hm=dc0aedbbe11c5258d271aff5ee16624fc66d369ba4bb506b22888799512d8c9b&](https://res.cloudinary.com/dxub0smsi/image/upload/f_auto,q_auto/fl1u9vnbu943n9lwyx9c)
+![App Screenshot](https://res.cloudinary.com/dxub0smsi/image/upload/f_auto,q_auto/fl1u9vnbu943n9lwyx9c)
 
 
 
