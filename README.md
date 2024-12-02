@@ -2,10 +2,7 @@
 
 
 ## 🚀 About Me
-I'm student at La Plateforme
-
-
-![Logo](https://media.licdn.com/dms/image/v2/D4D0BAQFOeUMW42BGEQ/company-logo_200_200/company-logo_200_200/0/1707155663070/laplateformeio_logo?e=2147483647&v=beta&t=p5OJtal5nc3SHbC1OzVDUx10RbFg5xelwMzrxs1JLjg)
+I'm student at La Plateforme ![Logo](https://media.licdn.com/dms/image/v2/D4D0BAQFOeUMW42BGEQ/company-logo_200_200/company-logo_200_200/0/1707155663070/laplateformeio_logo?e=2147483647&v=beta&t=p5OJtal5nc3SHbC1OzVDUx10RbFg5xelwMzrxs1JLjg)
 
 
 ## Tech Stack
